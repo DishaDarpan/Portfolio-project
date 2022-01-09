@@ -1,0 +1,11 @@
+body {
+  background-color: antiquewhite;
+}
+.h1 {
+  font-family: poppins;
+  font-size: bold;
+}
+.p {
+  font-family: playfair display;
+  color: blue;
+}
